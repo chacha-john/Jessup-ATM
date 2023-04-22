@@ -1,6 +1,6 @@
 # Jessup-ATM
 
-###D Description
+### Description
 Write an application that simulates an ATM for William Jessup Bank. The bank has two types of
 accounts: Personal Account and Business Account. The functionality of the applications is as
 follows:
